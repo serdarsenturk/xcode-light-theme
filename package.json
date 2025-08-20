@@ -32,5 +32,6 @@
   "bugs": {
     "url": "https://github.com/serdarsenturk/xcode-light-theme/issues"
   },
-  "homepage": "https://github.com/serdarsenturk/xcode-light-theme#readme"
+  "homepage": "https://github.com/serdarsenturk/xcode-light-theme#readme",
+  "license": "MIT"
 }
