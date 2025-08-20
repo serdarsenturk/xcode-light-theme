@@ -147,20 +147,17 @@ def process_people(people: List[Person]) -> List[str]:
     return [person.name for person in people if person.age >= 18]
 ```
 
-## What's New
+## Changelog
 
-### Version 1.2.0
-- Added Xcode-style project navigator layout
-- Enhanced sidebar and explorer colors
-- Improved file tree visualization
-- Better activity bar styling
-- Refined selection and hover states
-
-### Version 1.1.0
-- Enhanced syntax highlighting for multiple languages
-- Added language-specific rules for Swift, Objective-C, JS/TS, Python
-- Improved UI colors to match Xcode more closely
-- Better support for modern language features
+### Version 1.0.0 (Latest)
+- 🎉 Initial release of Xcode Light Theme
+- 🎨 Faithful recreation of Xcode's default light theme color palette
+- 🗂️ Xcode-style project navigator layout with enhanced sidebar colors
+- 🔍 Enhanced syntax highlighting for multiple programming languages
+- 📝 Language-specific rules for Swift, Objective-C, JavaScript/TypeScript, and Python
+- 🖥️ Complete UI theme with carefully crafted colors for sidebar, activity bar, tabs
+- ✨ Optimized for readability and developer productivity
+- 🎯 Perfect color matching with Xcode's original light theme
 
 ## Contributing
 
