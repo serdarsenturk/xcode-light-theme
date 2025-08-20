@@ -28,14 +28,6 @@ A faithful recreation of Xcode's default light theme with Xcode-style project na
 
 ## Installation
 
-### From Trae IDE (Open-VSX Registry)
-
-1. Open Trae IDE
-2. Go to Extensions panel
-3. Search for "Xcode Light Theme"
-4. Click Install
-5. Activate the theme by pressing `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T`) and select "Xcode Light"
-
 ### From VS Code Marketplace
 
 1. Open Visual Studio Code
