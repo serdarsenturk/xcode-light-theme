@@ -1,6 +1,6 @@
 # Xcode Light Theme
 
-A faithful recreation of Xcode's default light theme for Visual Studio Code with Xcode-style project navigator layout and enhanced syntax highlighting.
+A faithful recreation of Xcode's default light theme with Xcode-style project navigator layout and enhanced syntax highlighting.
 
 ## Features
 
