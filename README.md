@@ -3,7 +3,7 @@
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/yugosdex.xcode-light-theme?style=flat-square&logo=visual-studio-code&logoColor=white&label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=yugosdex.xcode-light-theme)
 [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/yugosdex.xcode-light-theme?style=flat-square&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=yugosdex.xcode-light-theme)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/yugosdex.xcode-light-theme?style=flat-square&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=yugosdex.xcode-light-theme)
-[![GitHub](https://img.shields.io/github/license/yugosdex/xcode-light-theme?style=flat-square)](https://github.com/yugosdex/xcode-light-theme/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/serdarsenturk/xcode-light-theme?style=flat-square)](https://github.com/serdarsenturk/xcode-light-theme/blob/main/LICENSE)
 
 A faithful recreation of Xcode's default light theme with Xcode-style project navigator layout and enhanced syntax highlighting.
 
@@ -18,13 +18,13 @@ A faithful recreation of Xcode's default light theme with Xcode-style project na
 ## Screenshots
 
 ### Editor View
-![Xcode Light Theme - Editor](https://raw.githubusercontent.com/yugosdex/xcode-light-theme/main/images/editor-preview.png)
+![Xcode Light Theme - Editor](https://raw.githubusercontent.com/serdarsenturk/xcode-light-theme/main/images/editor-preview.png)
 
 ### Project Navigator
-![Xcode Light Theme - Navigator](https://raw.githubusercontent.com/yugosdex/xcode-light-theme/main/images/navigator-preview.png)
+![Xcode Light Theme - Navigator](https://raw.githubusercontent.com/serdarsenturk/xcode-light-theme/main/images/navigator-preview.png)
 
 ### Syntax Highlighting Examples
-![Xcode Light Theme - Syntax](https://raw.githubusercontent.com/yugosdex/xcode-light-theme/main/images/syntax-preview.png)
+![Xcode Light Theme - Syntax](https://raw.githubusercontent.com/serdarsenturk/xcode-light-theme/main/images/syntax-preview.png)
 
 ## Installation
 
@@ -225,8 +225,8 @@ def process_people(people: List[Person]) -> List[str]:
 
 If you encounter any issues or have suggestions for improvements:
 
-1. Check the [existing issues](https://github.com/yugosdex/xcode-light-theme/issues) first
-2. If your issue is new, [create a new issue](https://github.com/yugosdex/xcode-light-theme/issues/new)
+1. Check the [existing issues](https://github.com/serdarsenturk/xcode-light-theme/issues) first
+2. If your issue is new, [create a new issue](https://github.com/serdarsenturk/xcode-light-theme/issues/new)
 3. Provide detailed information including:
    - VS Code/Trae version
    - Operating system
@@ -237,7 +237,7 @@ If you encounter any issues or have suggestions for improvements:
 
 Have an idea for a new feature? We'd love to hear it!
 
-- [Submit a feature request](https://github.com/yugosdex/xcode-light-theme/issues/new?labels=enhancement)
+- [Submit a feature request](https://github.com/serdarsenturk/xcode-light-theme/issues/new?labels=enhancement)
 - Describe your use case and how it would benefit other users
 
 ### Community
