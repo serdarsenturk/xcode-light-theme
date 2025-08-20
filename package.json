@@ -1,0 +1,37 @@
+{
+  "name": "xcode-light-theme",
+  "displayName": "Xcode Light Theme",
+  "description": "A faithful recreation of Xcode's default light theme for Visual Studio Code with Xcode-style project navigator layout and enhanced syntax highlighting",
+  "version": "1.0.0",
+  "publisher": "yugosdex",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "xcode",
+    "light",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xcode Light",
+        "uiTheme": "vs",
+        "path": "./themes/xcode-light-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trae-ai/xcode-light-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/trae-ai/xcode-light-theme/issues"
+  },
+  "homepage": "https://github.com/trae-ai/xcode-light-theme#readme",
+  "license": "MIT"
+}
